@@ -34,6 +34,7 @@
 </section>
     <!-- Footer -->
     <?php include './Includes/Footer.php'; ?>
+    <?php include './Includes/Forms.php'; ?>
 
 </body>
 </html>

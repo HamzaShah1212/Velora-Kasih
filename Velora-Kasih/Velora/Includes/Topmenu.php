@@ -87,9 +87,9 @@
 
       <!-- Hamburger Menu (positioned to the right) -->
       <div class="hamburger" id="hamburger">
-        <span></span>
-        <span></span>
-        <span></span>
+        <span>asfsa</span>
+        <span>asdaz</span>
+        <span>asda</span>
       </div>
 
       <!-- Menu Items -->

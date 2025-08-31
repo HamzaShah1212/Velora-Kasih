@@ -33,7 +33,7 @@
   </div>
 </section>
     <!-- Footer -->
+    <?php include '.\Velora\Includes\Forms.php'; ?>
     <?php include './Includes/Footer.php'; ?>
-
 </body>
 </html>

@@ -30,13 +30,13 @@
     <!-- Quick Links -->
     <div class="footer-col">
       <h4>Quick Links</h4>
-      <ul>
+      <!-- <ul>
         <li><a href="#">About Us</a></li>
         <li><a href="#">Our Pricing</a></li>
         <li><a href="#">Our Gallery</a></li>
         <li><a href="#">Appointment</a></li>
         <li><a href="#">Privacy Policy</a></li>
-      </ul>
+      </ul> -->
     </div>
 
     <!-- Department -->
